@@ -1,0 +1,6 @@
+{
+  "name": "Bulk Email Marketing SaaS",
+  "description": "Production-ready permission-based bulk email marketing SaaS with drag-and-drop template builder, contact lists, campaigns, scheduling, deliverability suite, analytics, and admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
